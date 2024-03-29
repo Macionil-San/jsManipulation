@@ -90,7 +90,13 @@
         color: white;
 
     }
+table,tr,th{
 
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+    /* ______________________________________________________________ */
     
     
 
